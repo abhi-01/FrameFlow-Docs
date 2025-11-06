@@ -30,9 +30,8 @@ beautifully organized and self-documented.
    faq
    changelog
    support
+   usage
+   requirements
+   developer
 
-Indices and tables
-------------------
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
