@@ -1,37 +1,29 @@
 .. Frame Flow documentation master file
 
-Frame Flow — Blender Add-on for Enhanced Node Documentation
-===========================================================
+Frame Flow — Official Documentation
+===================================
 
-Frame Flow is a premium Blender add-on that upgrades your Node Editor workflow
-with **multiline comments**, **rich text formatting**, and **emoji/icon support**.
+Frame Flow is a premium Blender add-on designed to improve node editor workflows
+with multiline comments, Unicode icons, and rich text formatting.
 
-Use Frame Flow to keep your shader, geometry, and compositor setups
-beautifully organized and self-documented.
+This documentation will help you install, use, and master Frame Flow
+to keep your shader, geometry, and compositor node setups organized and beautiful.
 
-**Key Features**
-----------------
-- One-click multiline text editor for any frame node
-- Bold, italic, underline formatting
-- Emoji & symbol picker with search
-- Supports Shader, Geometry Node, and Compositor editors
-- Lightweight, fully integrated with Blender 4.x
+Contents
+--------
 
-**Quick Links**
----------------
 .. toctree::
    :maxdepth: 2
+   :caption: Table of Contents
 
    installation
    quickstart
    features
    workflow
-   tips
    faq
-   changelog
+   tips   
    support
    usage
    requirements
+   changelog
    developer
-
-
